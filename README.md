@@ -3,6 +3,8 @@
 ## Juliana Carvalho
 **Desenvolvedora FullStack · IA · Python**
 
+Moro em Salvador e estou aberta a oportunidades em desenvolvimento FullStack e IA.
+
 <a href="https://github.com/Juliana-ads-science"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&vCenter=true&width=480&height=40&lines=Desenvolvimento+FullStack+com+IA;Front-end%3A+HTML%2C+CSS%2C+JavaScript+e+React;Back-end%3A+Python%2C+Node.js+e+Java;Construindo+o+Syrax%2C+meu+assistente+de+IA;Vis%C3%A3o+computacional+na+Fiocruz+Bahia;Professora+de+Programa%C3%A7%C3%A3o+FullStack+com+IA" alt="Apresentação" /></a>
 
 <a href="https://www.instagram.com/syra.xai7"><img src="https://img.shields.io/badge/Instagram-6d28d9?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -30,18 +32,9 @@
 
 <br>
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juliana-ads-science&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&title_color=a78bfa&icon_color=a78bfa&text_color=e9e4ff&bg_color=13111c&border_color=6d28d9&ring_color=8b5cf6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-ads-science&layout=compact&locale=pt-br&title_color=a78bfa&text_color=e9e4ff&bg_color=13111c&border_color=6d28d9" />
-</p>
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Juliana-ads-science&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Troféus" />
-</p>
-
 ---
 
-<details>
+<details open>
 <summary><b>🚀 Projetos</b></summary>
 <br>
 
@@ -61,8 +54,6 @@ Programo em Python, JavaScript e Java e trabalho com desenvolvimento FullStack e
 
 Faço graduação em Inteligência Artificial e Machine Learning e em Análise e Desenvolvimento de Sistemas, e estou terminando Biomedicina. Por isso, gosto de levar a programação para a área da saúde: na Fiocruz Bahia, treino modelos de IA para apoiar o diagnóstico da leishmaniose cutânea.
 
-Sou de Salvador, Bahia.
-
 </details>
 
 <details>
@@ -75,7 +66,32 @@ React 19 e Next.js · TypeScript · Machine Learning · POO em Java
 
 <br>
 
-### Contribuições
+<details>
+<summary><b>🌎 English</b></summary>
+<br>
+
+Hi! I'm Juliana, a developer from Salvador, Brazil, working with full-stack development and AI. I code mostly in Python, JavaScript and Java.
+
+Right now I'm building **Syrax**, a human-in-the-loop AI assistant that connects to WhatsApp, email and calendar to help organize tasks and handle everyday work. I'm also a research intern at Fiocruz Bahia, training computer vision models to support the diagnosis of cutaneous leishmaniasis from histology slides.
+
+I teach Python and full-stack programming with AI, and I'm studying AI & Machine Learning and Systems Analysis and Development, while finishing my degree in Biomedicine.
+
+I'm open to opportunities in full-stack development and AI.
+
+</details>
+
+<br>
+
+### No GitHub
+
+<p align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juliana-ads-science&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&title_color=a78bfa&icon_color=a78bfa&text_color=e9e4ff&bg_color=13111c&border_color=6d28d9&ring_color=8b5cf6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-ads-science&layout=compact&locale=pt-br&title_color=a78bfa&text_color=e9e4ff&bg_color=13111c&border_color=6d28d9" />
+</p>
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=Juliana-ads-science&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Troféus" />
+</p>
 
 <img src="profile-3d-contrib/profile-customize.svg" alt="Gráfico 3D de contribuições" width="100%" />
 
