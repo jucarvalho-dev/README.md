@@ -1,4 +1,5 @@
-## Olá, mundo! Eu sou a Juliana, seja bem-vindo(a) 💜
+## Juliana Carvalho
+Entre a bancada e o código.
 
 <a href="https://github.com/Juliana-ads-science"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&vCenter=true&width=600&height=40&lines=Biomedicina+%2B+IA+e+Machine+Learning+%2B+ADS;Treinando+IA+para+diagn%C3%B3stico+da+leishmaniose+cut%C3%A2nea;Inicia%C3%A7%C3%A3o+cient%C3%ADfica+na+Fiocruz+Bahia;Construindo+o+Syrax%2C+meu+assistente+de+IA;Professora+de+Python+e+FullStack+com+IA;Direto+de+Salvador%2C+Bahia" alt="Apresentação" /></a>
 
