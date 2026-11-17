@@ -35,6 +35,10 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-ads-science&layout=compact&locale=pt-br&title_color=a78bfa&text_color=e9e4ff&bg_color=13111c&border_color=6d28d9" />
 </p>
 
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=Juliana-ads-science&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Troféus" />
+</p>
+
 ---
 
 <details>
@@ -70,6 +74,10 @@ React 19 e Next.js · TypeScript · Machine Learning · POO em Java
 </details>
 
 <br>
+
+### Contribuições
+
+<img src="profile-3d-contrib/profile-customize.svg" alt="Gráfico 3D de contribuições" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juliana-ads-science/Juliana-ads-science/output/github-snake-dark.svg" />

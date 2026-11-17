@@ -14,12 +14,16 @@
     .cur{animation:c .9s steps(1) infinite} @keyframes c{50%{opacity:0}}
     .glow{animation:g 3.2s ease-in-out infinite} @keyframes g{50%{opacity:.55}}
     .s{font-family:'Fira Code',Consolas,monospace;font-weight:700}
+    .ph{opacity:0;animation:ph 10s infinite}
+    .p2{animation-delay:2.5s} .p3{animation-delay:5s} .p4{animation-delay:7.5s}
+    @keyframes ph{0%{opacity:0}3%,22%{opacity:1}25%,100%{opacity:0}}
+    .bub{animation:fl 3.4s ease-in-out infinite}
   </style>
 
   <circle cx="200" cy="160" r="128" fill="#ede9fe" opacity=".55"/>
 
   <g class="f1"><text x="28" y="78" class="s" font-size="24" fill="#8b5cf6">&lt;/&gt;</text></g>
-  <g class="f2"><text x="326" y="70" class="s" font-size="24" fill="#a78bfa">{ }</text></g>
+  <g class="f2"><text x="330" y="52" class="s" font-size="24" fill="#a78bfa">{ }</text></g>
   <g class="f3"><text x="36" y="168" class="s" font-size="18" fill="#a78bfa">=&gt;</text></g>
 
   <!-- corpo -->
@@ -136,5 +140,18 @@
     <rect class="ln l3" x="18" y="42" width="48" height="5" rx="2.5" fill="#c4b5fd"/>
     <rect class="ln l4" x="26" y="52" width="40" height="5" rx="2.5" fill="#8b5cf6"/>
     <rect class="cur" x="70" y="51" width="2.5" height="8" fill="#ede9fe"/>
+  </g>
+
+  <!-- balão de fala -->
+  <g class="bub">
+    <rect x="258" y="92" width="128" height="36" rx="18" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+    <path d="M266 120 L246 132 L276 124 Z" fill="#ffffff" stroke="#7c3aed" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="262" y="116" width="20" height="8" fill="#ffffff"/>
+    <g font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700" fill="#6d28d9" text-anchor="middle">
+      <text class="ph p1" x="322" y="115">bora codar?</text>
+      <text class="ph p2" x="322" y="115">deploy feito ✔</text>
+      <text class="ph p3" x="322" y="115">bug resolvido!</text>
+      <text class="ph p4" x="322" y="115">café + código</text>
+    </g>
   </g>
 </svg>
