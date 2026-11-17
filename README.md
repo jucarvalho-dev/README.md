@@ -1,89 +1,57 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6d28d9&height=120&section=header&text=Juliana%20Carvalho&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:7c3aed&height=180&section=header&text=Juliana%20Carvalho&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Bio%20%2B%20IA%20%F0%9F%A7%AC%F0%9F%A4%96&descAlignY=55&descSize=18" width="100%"/>
+Oi! Eu sou a Juliana, de Salvador. Estou terminando Biomedicina e faço graduação em Inteligência Artificial e Machine Learning e em Análise e Desenvolvimento de Sistemas. Desde que comecei, meu caminho tem sido juntar as duas coisas: biologia e tecnologia.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Biomedicina+%2B+Intelig%C3%AAncia+Artificial;Treinando+IA+para+diagn%C3%B3stico+da+leishmaniose+cut%C3%A2nea;Vis%C3%A3o+computacional+para+patologia+digital;Instrutora+de+Python+e+FullStack+com+IA" alt="Typing SVG" /></a>
+Hoje faço iniciação científica na Fiocruz Bahia, onde treino modelos de IA para ajudar no diagnóstico da leishmaniose cutânea a partir de lâminas histológicas, num projeto em parceria com a UFMG e a UFES. Antes de programar, passei bastante tempo na bancada (imuno-histoquímica, coloração de lâminas, histopatologia), e isso faz diferença na hora de entender o que o modelo está vendo.
 
-</div>
+Também dou aulas de Python, Programação FullStack com IA e programação para crianças.
 
----
+<br>
 
-### 👩‍🔬 Sobre mim
+## O que estou construindo
 
-- 🧬 **Biomedicina** voltada para tecnologia (UniRuy Wyden)
-- 🤖 Graduação em **Inteligência Artificial e Machine Learning** e **Análise e Desenvolvimento de Sistemas**
-- 🔬 Iniciação científica na **Fiocruz Bahia (IGM)**: treinamento de IA para diagnóstico histopatológico da **leishmaniose cutânea**, em parceria com UFMG e UFES
-- 👩‍🏫 Instrutora de **Python**, **Programação FullStack com IA** e **Programação Kids**
-- 📍 Salvador, Bahia 🇧🇷
+**Syrax**  
+Meu projeto pessoal e, aos poucos, minha empresa. O Syrax é um assistente de IA com o humano no controle (*human-in-the-loop*). Ele se conecta ao WhatsApp, ao e-mail e à agenda para organizar tarefas, sugerir próximos passos e resolver coisas do dia a dia de forma proativa, sem ficar só esperando comandos. Começa voltado para empresas, com a ideia de chegar depois ao uso pessoal. Estou construindo em público no Instagram: [@syra.xai7](https://www.instagram.com/syra.xai7)
 
-### 🛠️ Stack
+**IA para leishmaniose cutânea** · Fiocruz Bahia  
+Pipeline de visão computacional para segmentação de lâminas histológicas e apoio ao diagnóstico histopatológico.
 
-<div align="center">
+**[Site de aulas](https://github.com/Juliana-ads-science/site-aulas)**  
+Materiais, exercícios e acompanhamento de progresso para os alunos dos meus cursos.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Biopython](https://img.shields.io/badge/Biopython-1f6f43?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-2e7d32?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
-**Áreas:** Machine Learning · Visão Computacional · Ciência de Dados · Bioinformática · Estatística Aplicada
+## Ferramentas
 
-</div>
+![Python](https://img.shields.io/badge/Python-6d28d9?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6d28d9?style=flat-square&logo=openjdk&logoColor=white)
+![POO em Java](https://img.shields.io/badge/POO%20em%20Java-6d28d9?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-6d28d9?style=flat-square&logo=r&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-6d28d9?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-6d28d9?style=flat-square&logo=streamlit&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-6d28d9?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6d28d9?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-6d28d9?style=flat-square&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6d28d9?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Projetos em destaque
+Machine Learning, visão computacional, ciência de dados, bioinformática e estatística aplicada.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-**🔬 IA para leishmaniose cutânea**<br>
-Pipeline de visão computacional para segmentação de lâminas histológicas e apoio ao diagnóstico histopatológico. Fiocruz Bahia.
+## Atividade
 
-</td>
-<td width="50%" valign="top">
-
-**📚 [Site de aulas](https://github.com/Juliana-ads-science/site-aulas)**<br>
-Site com materiais, quizzes e acompanhamento de progresso para os alunos dos meus cursos.
-
-</td>
-</tr>
-</table>
-
-### 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juliana-ads-science&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-ads-science&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-
-<img src="https://streak-stats.demolab.com?user=Juliana-ads-science&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-</div>
-
-### 🐍 Contribuições
-
-<div align="center">
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Juliana-ads-science&show_icons=true&hide_border=true&count_private=true&locale=pt-br&bg_color=ffffff&title_color=6d28d9&icon_color=6d28d9&text_color=3f3f46" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-ads-science&layout=compact&hide_border=true&locale=pt-br&bg_color=ffffff&title_color=6d28d9&text_color=3f3f46" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juliana-ads-science/Juliana-ads-science/output/github-snake-dark.svg" />
-  <img alt="Animação da cobrinha nas contribuições" src="https://raw.githubusercontent.com/Juliana-ads-science/Juliana-ads-science/output/github-snake.svg" />
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/Juliana-ads-science/Juliana-ads-science/output/github-snake.svg" />
 </picture>
 
-</div>
+<br>
 
-### 📫 Contato
+## Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juliana-ads-science)
-
-<img src="https://komarev.com/ghpvc/?username=Juliana-ads-science&label=Visitas&color=7c3aed&style=flat" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f766e&height=100&section=footer" width="100%"/>
+[LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN) · [E-mail](mailto:SEU-EMAIL) · [Instagram do Syrax](https://www.instagram.com/syra.xai7)
